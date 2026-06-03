@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "yekan";
+  src: url("/public/fonts/YekanBakhFaNum-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; 
+}
+
+*{
+  font-family: "yekan" !important;
+}
+
+body{
+  direction: rtl;
+}
