@@ -8,7 +8,7 @@ It helps you track daily income and expenses, calculate balances, and get a clea
 ## 📸 Preview
 
 
-![Tracker Screenshot](./public/preview.png)
+![Tracker Screenshot](/preview.png)
 
 ---
 
