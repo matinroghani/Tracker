@@ -7,7 +7,10 @@ It helps you track daily income and expenses, calculate balances, and get a clea
 
 ## 📸 Preview
 
+<<<<<<< HEAD
 > Add a screenshot of the app here
+=======
+>>>>>>> 07a1e995760ac212b6326834859205b3d2a40b2b
 
 ![Tracker Screenshot](./public/preview.png)
 
@@ -50,4 +53,8 @@ This project was built mainly for learning and practice:
 Clone the repository:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/matinroghani/Tracker.git
+=======
+git clone https://github.com/matinroghani/Tracker.git
+>>>>>>> 07a1e995760ac212b6326834859205b3d2a40b2b
