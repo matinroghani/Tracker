@@ -7,7 +7,6 @@ It helps you track daily income and expenses, calculate balances, and get a clea
 
 ## 📸 Preview
 
-> Add a screenshot of the app here
 
 ![Tracker Screenshot](./public/preview.png)
 
